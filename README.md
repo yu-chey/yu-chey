@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yu-chey&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yu-chey&" height="150" alt="activity-graph graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yu-chey&layout=compact&theme=dracula" height="150" />
 </div>
 
