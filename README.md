@@ -50,7 +50,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/dias-bekbolatuly" target="_blank">
+        <a href="https://www.linkedin.com/in/yuchey" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
         </a>
       </td>
