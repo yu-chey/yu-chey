@@ -16,12 +16,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yu-chey&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yu-chey&layout=compact&theme=dracula" height="170" />
-  <br/>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yu-chey&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yu-chey&layout=compact&theme=dracula" height="170" />
+      </td>
+    </tr>
+  </table>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yu-chey&theme=dracula&bg_color=21222c&color=ff79c6&line=bd93f9&point=f8f8f2" width="100%" />
-  <br/>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31twikec6i5j6vlaxrinsdh55tvi" width="400" />
 </div>
 
 ###
