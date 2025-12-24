@@ -27,6 +27,8 @@
     </tr>
   </table>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yu-chey&theme=dracula&bg_color=21222c&color=ff79c6&line=bd93f9&point=f8f8f2" width="100%" />
+  <br/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31twikec6i5j6vlaxrinsdh55tvi" alt="Recent Spotify Activity" />
 </div>
 
 ###
@@ -44,10 +46,36 @@
 <div align="center">
   <table align="center">
     <tr>
-      <td><a href="mailto:d_bekbolatuly@kbtu.kz"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a></td>
-      <td><a href="https://www.linkedin.com/in/dias-bekbolatuly" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a></td>
-      <td><a href="https://t.me/yu_chey" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" /></a></td>
-      <td><a href="https://discordapp.com/users/707534434685026335" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" /></a></td>
+      <td align="center">
+        <a href="mailto:d_bekbolatuly@kbtu.kz">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/dias-bekbolatuly" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://t.me/yu_chey" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://discordapp.com/users/707534434685026335" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yu-chey/yu-chey/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
