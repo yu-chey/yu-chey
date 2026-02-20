@@ -3,7 +3,7 @@
     <td width="75%">
       <h2 align="left">Hi 👋! My name is Dias and I'm a Software Engineer from Almaty, Kazakhstan. 🌱</h2>
     <p align="left">
-      🎓 I’m a Computer Science student diving deep into <b>Systems Programming</b> and <b>Networking</b>.
+      🎓 I’m a Computer Science student diving deep into <b>Backend</b> and <b>Computer Networks</b>.
     </p>
     </td>
     <td width="25%" align="right" valign="top">
